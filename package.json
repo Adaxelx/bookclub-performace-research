@@ -1,0 +1,19 @@
+{
+  "name": "badania",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extractLighthouseMetrics.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^1.1.1",
+    "fs": "^0.0.1-security",
+    "lighthouse": "11.5",
+    "xlsx": "^0.18.5"
+  }
+}
